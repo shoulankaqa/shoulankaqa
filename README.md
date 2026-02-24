@@ -35,6 +35,5 @@
 ## 📌 Контакты
 
 - Email:  
-- LinkedIn: 
 - GitHub: 
 ---
