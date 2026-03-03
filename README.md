@@ -5,7 +5,7 @@
 
 ---
 
-## 🗂 Содержание репозитория
+## Содержание репозитория
 
 - **📑 Test Cases** – функциональные, негативные и позитивные тест-кейсы для разных проектов  
 - **🐞 Bug Reports** – примеры найденных багов с описанием и скриншотами  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Цель репозитория
+## Цель репозитория
 
 - Хранить все **практические материалы по тестированию** в одном месте  
 - Показать потенциальным работодателям мои навыки и подход к QA  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Навыки
+## Навыки
 
 - **Тестирование ПО**: ручное тестирование, функциональное тестирование, негативное тестирование  
 - **Документация**: составление тест-кейсов, баг-репортов, тест-планов  
@@ -32,20 +32,18 @@
 ---
 
 ## Инструменты
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons@latest/css/simple-icons.css">
-  
-<span><i class="si-jira"></i></span> JIRA   
-<span><i class="si-insomnia"></i></span> INSOMNIA   
-<span><i class="si-swagger"></i></span> SWAGGER   
-<span><i class="si-github"></i></span> GITHUB    
-<span><i class="si-figma"></i></span> FIGMA     
-<span><i class="si-mysql"></i></span> MYSQL   
-<span><i class="si-javascript"></i></span> JAVASCRIPT      
-<span><i class="si-developer"></i></span> DEVTOOLS     
-<span><i class="si-testrail"></i></span> TESTRAIL    
-<span><i class="si-charlesproxy"></i></span> CHARLESPROXY   
+ 
+![JIRA](https://img.shields.io/badge/JIRA-white?logo=jira&style=social)   
+![POSTMAN](https://img.shields.io/badge/Postman-white?logo=postman&style=social)   
+![SWAGGER](https://img.shields.io/badge/Swagger-white?logo=swagger&style=social)   
+![GITHUB](https://img.shields.io/badge/Github-black?logo=github&style=social)   
+![FIGMA](https://img.shields.io/badge/Figma-purple?logo=figma&style=social)   
+![MYSQL](https://img.shields.io/badge/MYSQL-lightblue?logo=mysql&style=social)   
+![DEVTOOLS](https://img.shields.io/badge/DeveloperTools-grey?logo=google-chrome&style=social)   
+![TESTRAIL](https://img.shields.io/badge/TestRail-red?logo=testrail&style=social)   
+![CHARLESPROXY](https://img.shields.io/badge/CharlesProxy-orange?logo=charles-proxy&style=social)   
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=social)   
+![INSOMNIA](https://img.shields.io/badge/Insomnia-blue?logo=insomnia&style=social)     
 
 ## 📌 Контакты
 
