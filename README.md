@@ -37,11 +37,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons@latest/css/simple-icons.css">
   
 <span><i class="si-jira"></i></span> JIRA   
-<span><i class="si-insomnia"></i></span> INSOMNIA 
+<span><i class="si-insomnia"></i></span> INSOMNIA   
 <span><i class="si-swagger"></i></span> SWAGGER   
 <span><i class="si-github"></i></span> GITHUB    
 <span><i class="si-figma"></i></span> FIGMA     
-<span><i class="si-mysql"></i></span> MYSQL
+<span><i class="si-mysql"></i></span> MYSQL   
 <span><i class="si-javascript"></i></span> JAVASCRIPT      
 <span><i class="si-developer"></i></span> DEVTOOLS     
 <span><i class="si-testrail"></i></span> TESTRAIL    
