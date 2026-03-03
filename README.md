@@ -9,7 +9,6 @@
 
 - **📑 Test Cases** – функциональные, негативные и позитивные тест-кейсы для разных проектов  
 - **🐞 Bug Reports** – примеры найденных багов с описанием и скриншотами  
-- **📝 Test Plans** – учебные тест-планы и стратегии тестирования  
 - **💻 Automation Scripts (по мере изучения)** – скрипты на JS для автоматизации тестов  
 - **📚 Notes & References** – полезные материалы и заметки по QA  
 
@@ -31,6 +30,22 @@
 - **Базовые навыки автоматизации**: JavaScript, Node.js, Playwright / Jest (в процессе изучения)  
 
 ---
+
+## Инструменты
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons@latest/css/simple-icons.css">
+  
+<span><i class="si-jira"></i></span> JIRA   
+<span><i class="si-insomnia"></i></span> INSOMNIA 
+<span><i class="si-swagger"></i></span> SWAGGER   
+<span><i class="si-github"></i></span> GITHUB    
+<span><i class="si-figma"></i></span> FIGMA     
+<span><i class="si-mysql"></i></span> MYSQL
+<span><i class="si-javascript"></i></span> JAVASCRIPT      
+<span><i class="si-developer"></i></span> DEVTOOLS     
+<span><i class="si-testrail"></i></span> TESTRAIL    
+<span><i class="si-charlesproxy"></i></span> CHARLESPROXY   
 
 ## 📌 Контакты
 
